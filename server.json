@@ -1,1 +1,29 @@
-
+{
+  "servers": [
+    {
+      "name": "Server1",
+      "url": "https://projectmeowcasino.000webhostapp.com/711BET/"
+      "status": "active"
+    },
+    {
+      "name": "Server2",
+      "url": "192.168.1.1"
+      "status": "active"
+    },
+    {
+      "name": "Server3",
+      "url": "192.168.1.1"
+      "status": "active"
+    },
+    {
+      "name": "Server4",
+      "url": "192.168.1.1"
+      "status": "active"
+    },
+    {
+      "name": "Server5",
+      "url": "192.168.1.1"
+      "status": "active"
+    }
+  ]
+}
